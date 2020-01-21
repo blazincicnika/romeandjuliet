@@ -21,7 +21,7 @@ My goal was to make it simple as possible but still in a modern look
 This site uses: 
 Bootstrap Navbar - it's a nice effect when the user checks the website with mobile or tablet screen size. It turns Navbar into a "hamburger"
 
-Bootstrap cards - also nice effect for pricing ticket list wit button to buy a ticket
+Bootstrap cards - also nice effect for pricing ticket list with added button to buy a ticket. It's responsive and mobile frendly 
 
 ## Testing
 

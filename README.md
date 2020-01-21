@@ -2,6 +2,8 @@
 
 Website project for Dublin Institute of design
 
+A live demo can be found  [HERE](https://blazincicnika.github.io/romeandjuliet/index.html)
+
 ## My first webpage
 
 This project is my first attempt to create 

@@ -1,22 +1,11 @@
-
-
 .navbar .navbar-collapse {
   text-align: center;
 }
-
-
-
-
-
-   
-
 
 h1 {
     color: red;
     font-weight: bold;
 }
-
-
 
 .text-center {
     
@@ -28,9 +17,7 @@ h1 {
   top: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%); /* for IE 9 */
-  -webkit-transform: translate(-50%, -50%); /* for Safari */
-
- 
+  -webkit-transform: translate(-50%, -50%); /* for Safari */ 
   
 }
 
@@ -42,11 +29,9 @@ h1 {
 }
 
 
-
 body {
   background-color: #e9ecef;
 }
-
 
 
 

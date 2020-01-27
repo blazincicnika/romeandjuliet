@@ -17,6 +17,7 @@ My goal was to make it simple as possible but still in a modern look
 1.  HTML
 2.  CSS
 3.  Bootstrap
+4.  Font Awesome - Icons
 
 ## Features
 
